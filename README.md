@@ -1,3 +1,4 @@
 # Projects
-Data analysis
-Тут собраны проекты по анализу данных для разных сфер бизнеса (банки, игровая сфера, аренда жилья и т.д.)
+Data analysis and ML
+
+Here is my projects in data science and ML 
